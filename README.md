@@ -16,4 +16,4 @@ AWS Cloud Engineer | Contact Center Solutions Specialist<br><br>I'm an AWS Cloud
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Chxlzwilmz&icon=0&color=0)](https://visitcount.itsvg.in)
+
